@@ -1,5 +1,5 @@
 inherit_gem:
-  shared-rubocop: config/base.yml
+  jets-rubocop: config/base.yml
 
 Naming/FileName:
   Exclude:
